@@ -1,0 +1,41 @@
+﻿  example.cpp
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(72,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(73,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(73,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(86,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(87,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(87,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(96,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(96,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(115,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(115,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(130,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(130,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(143,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(156,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(173,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(173,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(177,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(178,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(178,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(178,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(179,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(180,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(180,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(180,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(183,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(183,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(190,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(190,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(197,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(197,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(197,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(228,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(234,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(360,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(361,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(378,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(416,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(417,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\example\example.cpp(452,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  example.vcxproj -> C:\Users\Kamila\Desktop\bilkent\semester2\CTIS164\hw2 final version\Debug\example.exe
