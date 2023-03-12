@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\HP\Desktop\bilkent\semester2\CTIS164\hw2 final version\hw2 final version\Source.cpp(27,10): fatal  error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
